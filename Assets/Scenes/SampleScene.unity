@@ -888,7 +888,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pSpeed: 2.5
-  rSpeed: 55
+  rSpeed: 85
+  bInvertLookAxis: 1
   playerCam: {fileID: 963194227}
 --- !u!65 &2137969641
 BoxCollider:
